@@ -29,8 +29,8 @@ Interface of the tool :-
 ![Screenshot 2025-05-31 211946](https://github.com/user-attachments/assets/21e4d93a-a96c-4a69-af21-a66fa2e849f9)
 
 After scanning files the report generation interface :-
+![Screenshot 2025-05-31 212013](https://github.com/user-attachments/assets/c6389383-f101-4538-9fb7-9b2885f7a6c7)
 
-![Screenshot 2025-05-31 211946](https://github.com/user-attachments/assets/3dd87fbc-83df-4098-b978-8d0c47143c37)
 
 HOW TO USE THIS:
 1.download the zip  file
